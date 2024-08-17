@@ -2,3 +2,4 @@
 Primer repositorio ejemplo en Github
 
 Auhtor: Fabian castro
+CoAuthor: Chatgpt
